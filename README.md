@@ -54,3 +54,6 @@ Then open `http://localhost:10000`.
 6. Click **Create Web Service**.
 
 Render will build your environment and give you a live URL.
+
+## 🌐 Live Demo
+👉 [Diabetes Risk Prediction System - Live App](https://diabetes-risk-prediction-system-by.onrender.com)
